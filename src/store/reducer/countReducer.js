@@ -1,4 +1,4 @@
-import actionType from "../../constant/constant";
+import actionType from "../constant/constant";
 
 const INITIALSTATE = {
     counter: 0
